@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on some 3D models and PCBs
+- 🔭 I’m currently working on some PCBs
 - 🌱 I’m currently learning photography, film editing, programming
 - 📫 How to reach me: discord _hedge
 - ⚡ Fun fact: I got Hedge from Warhammer Fantasy RPG Hedge Wizards.
